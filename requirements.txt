@@ -1,0 +1,3 @@
+flask
+puchai-sdk
+python-dotenv
